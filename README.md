@@ -12,16 +12,16 @@ Practing-DSA-in-Java/
 │   └── Main.java
 │
 ├── stacks/
-│   ├── StackUsingArray.java
 │   ├── StringReverser.java
+│   ├── xxxxx.java
 │   └── Main.java
 │
 ├── queues/
-│   ├── QueueUsingArray.java
+│   ├── xxxxx.java
 │   └── Main.java
 │
 ├── hashtables/
-│   ├── HashTable.java
+│   ├── xxxxx.java
 │   └── Main.java
 │
 └── README.md
